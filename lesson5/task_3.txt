@@ -1,0 +1,10 @@
+Ivanov 23543.12
+Petrov 13749.32
+Sidorov 17564.80
+Zhigunov 14647.34
+Filatov 21987.61
+Kolobanov 23794.45
+Artemiev 16485.42
+Gagarin 13547.94
+Saharov 19465.74
+Cialkovskiy 22464.14
