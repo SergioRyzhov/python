@@ -1,7 +1,7 @@
 """
 This is the volkswagen polo-sedan parser for the av.by website.
 
-Why this car?
+Why is this car?
 I have this car and I want to monitor the prices on a marketplace.
 This parser isn't an order, it's the smal project to improve
 my python abilities.
